@@ -1,0 +1,14 @@
+{
+	"tokenColors": "./Nofrills.tmTheme",
+	"colors": {
+		"editor.background": "#121212",
+		"editorCursor.foreground": "#eeeeee",
+		"editor.foreground": "#eeeeee",
+		"editorWhitespace.foreground": "#eeeeee",
+		"editor.lineHighlightBackground": "#262626",
+		"editor.selectionBackground": "#4a4b40",
+		"editor.selectionForeground": "#121212",
+		"editor.selectionHighlightBackground": "#606060"
+	},
+	"name": "Nofrills"
+}

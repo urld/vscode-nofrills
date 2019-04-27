@@ -1,0 +1,26 @@
+{
+    "publisher": "urld",
+    "repository": {
+        "url": "https://github.com/urld/vscode-nofrills.git",
+        "type": "git"
+    },
+    "name": "nofrills",
+    "displayName": "Nofrills",
+    "description": "no-frills syntax coloring theme based on https://github.com/robertmeta/nofrils",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nofrills",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nofrills-color-theme.json"
+            }
+        ]
+    }
+}

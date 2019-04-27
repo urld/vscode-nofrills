@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Nofrills</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#121212</string>
+				<key>caret</key>
+				<string>#eeeeee</string>
+				<key>foreground</key>
+				<string>#eeeeee</string>
+				<key>invisibles</key>
+				<string>#eeeeee</string>
+				<key>lineHighlight</key>
+				<string>#262626</string>
+				<key>selection</key>
+				<string>#121212</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6c6c6c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#eeeeee</string>
+			</dict>
+		</dict>
+	</array>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.nofrills</string>
+	<key>author</key>
+	<string>David Url</string>
+</dict>
+</plist>
