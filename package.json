@@ -22,5 +22,6 @@
                 "path": "./themes/Nofrills-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }
