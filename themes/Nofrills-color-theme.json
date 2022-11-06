@@ -8,7 +8,13 @@
 		"editor.lineHighlightBackground": "#262626",
 		"editor.selectionBackground": "#4a4b40",
 		"editor.selectionForeground": "#121212",
-		"editor.selectionHighlightBackground": "#606060"
+		"editor.selectionHighlightBackground": "#606060",
+		"editorBracketHighlight.foreground1": "#eeeeee",
+		"editorBracketHighlight.foreground2": "#eeeeee",
+		"editorBracketHighlight.foreground3": "#eeeeee",
+		"editorBracketHighlight.foreground4": "#eeeeee",
+		"editorBracketHighlight.foreground5": "#eeeeee",
+		"editorBracketHighlight.foreground6": "#eeeeee"
 	},
 	"name": "Nofrills"
 }
